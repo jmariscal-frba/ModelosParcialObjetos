@@ -1752,3 +1752,8 @@
 {"level":"info","message":"⌛ Building environment","timeElapsed":229,"timestamp":"2026-11-22T21:35:51.922Z"}
 {"level":"info","message":"⌛ Validating NoticiasDeAyer/NoticiasDeAyer.wlk","timeElapsed":116,"timestamp":"2026-11-22T21:35:52.042Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":136,"timestamp":"2026-11-22T21:41:50.373Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":211,"timestamp":"2026-11-22T21:49:36.337Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":246,"timestamp":"2026-11-22T21:49:36.585Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":161,"timestamp":"2026-11-22T21:49:36.747Z"}
+{"level":"info","message":"⌛ Validating OperacionTransparencia/modeloParcial.wlk","timeElapsed":111,"timestamp":"2026-11-22T21:49:36.924Z"}
+{"level":"info","message":"Removing diagnostics from /e:/Escritorio/UTN/SISTEMAS/2026/PARADIGMAS/Modelos parcial/Objetos/modeloParcial.wlk","timestamp":"2026-11-22T21:49:36.924Z"}
