@@ -1,7 +1,3 @@
-object kometa{}
-object nacausa{}
-object garantis{}
-
 class Causa{
     const property caratula
     var property montoBase
